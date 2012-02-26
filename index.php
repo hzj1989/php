@@ -9,7 +9,7 @@ function sum ($a, $b)
 
 function minus ($a, $b)
 {
-    $value = $a + $b;
+    $value = $a - $b;
     return $value;
 }
 ?>
